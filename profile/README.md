@@ -4,7 +4,7 @@ Hi, welcome to InfiniTensor!
 
 Our organization is supported by Qiyuan Lab, Tsinghua University, et. al.
 
-The following repos are deep learning inference frameworks developed by our organization:
+The following repos are AI systems developed by our organization:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InfiniTensor&repo=InfiniTensor&theme=dark)](https://github.com/InfiniTensor/InfiniTensor)
 
